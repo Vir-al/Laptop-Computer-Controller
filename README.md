@@ -1,4 +1,4 @@
-<p align="center"><img src="./static/icons/laptop.png" border="0" alt="Laptop-Controller Logo" height="150px" width="150px"></p>
+<p align="center"><img src="./static/laptop.png" border="0" alt="Laptop-Controller Logo" height="150px" width="150px"></p>
 
 <h1 align="center"> Laptop Controller </h1>
 
@@ -25,7 +25,7 @@ The remote controller to control your Laptop/Computer using the cell phone.
 # For Direct Use
 
 ## Configuration in computer
-* Download the <img src="./static/icons/laptop.png" border="0" alt="Laptop_Controller_icon" height="25px" width="25px"> [laptop_controller.exe](https://github.com/Vir-al/Laptop-Controller/Computer/) for windows user.
+* Download the <img src="./static/laptop.png" border="0" alt="Laptop_Controller_icon" height="25px" width="25px"> [laptop_controller.exe](https://github.com/Vir-al/Laptop-Controller/Computer/) for windows user.
 * Connect your computer to a network via LAN cable through your router or to your wifi (The connection must be shared between computer as well as mobile).
 * Run the Executable file (laptop_controller.exe) as administrator.
 
