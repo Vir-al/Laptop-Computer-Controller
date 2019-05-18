@@ -1,0 +1,4 @@
+pynput==1.4
+pywin32==224
+pywin32-ctypes==0.2.0
+WMI==1.4.9
